@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T12:33:10.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.3" etag="j9wTyYfRBNyle5AybGLp" type="github"><diagram id="NPH6Rm9HvfBA1m4SU5Ns">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-03T05:16:31.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="v86i4bXlRI20qDiV1h8_" version="14.7.3" type="github">
+  <diagram id="NPH6Rm9HvfBA1m4SU5Ns" name="Page-1">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bS6Qav_fSy-xtye3GxVx-1" value="&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left ; font-size: 15px&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b style=&quot;background-color: rgb(255 , 242 , 204)&quot;&gt;#Rule 4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left ; font-size: 15px&quot;&gt;&lt;font color=&quot;#ffb70f&quot;&gt;&lt;b&gt;Java Identifiers are case Sensitive up course java Language it self treated as&amp;nbsp; case sensitive Language&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left ; font-size: 15px&quot;&gt;int number =10;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left ; font-size: 15px&quot;&gt;int Number =20;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left ; font-size: 15px&quot;&gt;int NUMBER=30;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left ; font-size: 15px&quot;&gt;int NuMbEr=40;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left ; font-size: 15px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="195" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
